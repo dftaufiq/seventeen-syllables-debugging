@@ -2,7 +2,7 @@
 """Write one haiku about debugging to /output/entry.txt.
 
 Deterministic: the same three lines, byte for byte, on every run.
-Haiku (5-7-5, 17 syllables, 69 characters, 71 bytes with newlines):
+Haiku (5-7-5, 17 syllables, 70 characters, 70 bytes with newlines):
 
     One line fixed at dawn
     a dozen break by breakfast
